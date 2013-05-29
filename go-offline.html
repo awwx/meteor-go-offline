@@ -1,0 +1,21 @@
+<template name="goOfflineHeader">
+  <div id="awwx-go-offline-header-div">
+
+    {{#if offline}}
+      <button id="awwx-go-offline-goOnline">Go Online</button>
+      &nbsp;
+      <span class="awwx-go-offline-offline">&#x25cf;</span>
+      offline
+    {{else}}
+      <button id="awwx-go-offline-goOffline">Go Offline</button>
+      &nbsp;
+      <span class="awwx-go-offline-online">&#x25cf;</span>
+      ONLINE
+    {{/if}}
+
+    &nbsp;
+
+    Connection: {{status}}
+
+  </div>
+</template>

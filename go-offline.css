@@ -1,0 +1,15 @@
+#awwx-go-offline-header-div {
+  background-color: black;
+  color: white;
+  margin: 0 0 0 0;
+  padding: 3px;
+  font-weight: bold;
+}
+
+.awwx-go-offline-online {
+  color: #0f0;
+}
+
+.awwx-go-offline-offline {
+  color: #f00;
+}

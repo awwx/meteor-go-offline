@@ -1,0 +1,8 @@
+{
+  "name": "go-offline",
+  "description": "Add a header to your web page with a button to go offline for easy testing of an application's offline behavior.",
+  "homepage": "https://github.com/awwx/meteor-go-offline#readme",
+  "author": "Andrew Wilcox",
+  "version": "1.0.0",
+  "git": "https://github.com/awwx/meteor-go-offline.git"
+}
