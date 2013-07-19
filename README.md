@@ -65,8 +65,8 @@ And then add the header to your body:
 </body>
 ```
 
+
 ## Support
 
-Support this package (and more like it!) by
-making a weekly contribution with
+Support my work by making a weekly contribution of your choice with
 [Gittip](https://www.gittip.com/awwx/).
