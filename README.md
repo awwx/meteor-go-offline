@@ -37,12 +37,6 @@ But for simple testing of an application's offline behavior this
 package can be handy.
 
 
-## Campaign
-
-This work is supported by the
-[Offline Data Campaign](http://offline-data.meteor.com/).
-
-
 ## Use
 
 ### Meteorite
@@ -70,3 +64,9 @@ And then add the header to your body:
   ...
 </body>
 ```
+
+## Support
+
+Support this package (and more like it!) by
+making a weekly contribution with
+[Gittip](https://www.gittip.com/awwx/).
